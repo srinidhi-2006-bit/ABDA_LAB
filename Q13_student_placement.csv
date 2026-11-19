@@ -1,0 +1,21 @@
+sid,cgpa,no_of_internships,projects,aptitude_score,communication_score,placed
+1,6.8,0,2,55,60,Not Placed
+2,7.6,1,3,72,70,Placed
+3,8.2,2,4,80,82,Placed
+4,7.2,1,2,58,65,Not Placed
+5,9.1,3,5,88,90,Placed
+6,6.5,0,1,50,55,Not Placed
+7,8.7,2,4,76,85,Placed
+8,7.9,1,3,68,75,Placed
+9,6.9,0,2,57,62,Not Placed
+10,9.4,3,5,92,94,Placed
+11,7.4,1,3,64,68,Not Placed
+12,8.5,2,4,79,80,Placed
+13,6.7,0,2,52,58,Not Placed
+14,9.0,2,5,90,88,Placed
+15,7.8,1,3,70,72,Placed
+16,6.3,0,1,48,50,Not Placed
+17,8.8,3,5,85,91,Placed
+18,7.1,1,2,59,64,Not Placed
+19,9.2,2,4,87,89,Placed
+20,6.6,0,2,54,57,Not Placed

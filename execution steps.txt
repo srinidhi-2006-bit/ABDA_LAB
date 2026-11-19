@@ -1,0 +1,14 @@
+#1-7 programs execution steps
+
+winget install virtuslab.scalacli
+scala-cli version
+
+cd C:\Users\egala\Downloads
+scala-cli run filename.scala
+
+------------------------------------------
+#8-16 programs execution steps
+
+python --version
+python -m pip show pyspark
+python -m pip install pyspark numpy "pandas<3.0"
